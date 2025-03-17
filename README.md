@@ -1,4 +1,5 @@
-Image Processing API
+### Image Processing API
+
 •	Build an API that allows users to upload images and apply filters, compression, or face detection.
 
 •	Use Pillow or OpenCV for image processing.
